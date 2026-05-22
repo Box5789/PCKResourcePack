@@ -7,8 +7,7 @@
     ],
     "wings": [
       {
-        "texture": "minecraft:elytra",
-        "use_player_texture": true
+        "texture": "minecraft:elytra"
       }
     ]
   }
